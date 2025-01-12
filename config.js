@@ -10,17 +10,17 @@ global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = false;                //auto tying by default off.
+global.autoTyping = false;                //auto typing by default off.
 global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["27812639791"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["27812639791"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["27812639791"];
-global.OwnerName = "Tsakaie";
+global.Owner = ["263777985546,27812639791"];         //If you want singal number so global.Owner = ['263777985546'] Change into your number.
+global.OwnerNumber = ["263777985546,27812639791"];   //If you want singal number so global.Owner = ['263777985546'] Change into your number.
+global.ownertag = ["263777985546"];
+global.OwnerName = "Tsakie";
 global.BotName = "A17";
 global.packname = "A17 Bot";                             //Do not change.
 global.author = "By: PARADISE";                               //Do not change.
@@ -33,7 +33,7 @@ global.sessionName = "session";                          //Do not change.
 
 
 //
-global.prefa = ["$"];                                    //Default prefix here.
+global.prefa = ["!"];                                    //Default prefix here.
 global.openAiAPI = "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";
 
 
